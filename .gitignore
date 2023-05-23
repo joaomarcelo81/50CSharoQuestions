@@ -5,3 +5,5 @@
 /.vs
 /bin/Debug/net6.0
 /ClientApp/node_modules
+/obj/Debug/net6.0
+/obj
